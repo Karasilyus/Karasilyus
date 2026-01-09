@@ -8,5 +8,5 @@
 - ⚡ İlgi alanlarım: Yapay Zeka, Backend Geliştirme.
 
 Bana ulaşmak için:
-https://www.linkedin.com/in/mustafa-efe-aydın/ | karasilyus@gmail.com
+https://www.linkedin.com/in/mustafa-efe-aydın/ | karasilyus@gmail.com | https://aydinefemustafa.vercel.app/
 -->
